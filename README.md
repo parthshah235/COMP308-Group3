@@ -11,3 +11,4 @@ This project is using Node.js, Graphql, React, and Machine learning Tensorflow
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
+Material UI is used for frontend.
