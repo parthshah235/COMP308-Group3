@@ -5,7 +5,7 @@ import { DefaultPort } from './src/config/index';
 import schema from './src/graphql/schema';
 import { normalizePort } from './src/utils/index';
 
-debug('group1-comp308-project');
+debug('group3-comp308-project');
 
 const port = normalizePort(process.env.PORT || DefaultPort);
 console.log('port', port);
