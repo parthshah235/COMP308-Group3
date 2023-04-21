@@ -15,7 +15,7 @@ const Header = (props) => {
       <NavLink className='navHeaderLink' to='/'>
         <span
           className='navHeaderText'
-          >COMP-308 Emerging Technologies - Group1
+          >COMP-308 Emerging Technologies - Group3
         </span>
       </NavLink>
       {
